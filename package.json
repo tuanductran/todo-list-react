@@ -51,7 +51,7 @@
     "@unocss/eslint-plugin": "^66.0.0",
     "@unocss/reset": "^66.0.0",
     "@vitejs/plugin-react": "^4.3.4",
-    "eslint": "9.20.1",
+    "eslint": "9.21.0",
     "eslint-plugin-command": "^3.0.0",
     "eslint-plugin-format": "^1.0.1",
     "eslint-plugin-react-hooks": "^5.1.0",
